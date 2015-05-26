@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">AppRamadhan</string>
+    <string name="app_name">RamadhanKu</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="Tittle">Touch to Continue</string>
+    <string name="Tittle">Anda Siap ? >></string>
 </resources>
